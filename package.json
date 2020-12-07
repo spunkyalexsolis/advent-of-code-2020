@@ -17,7 +17,10 @@
     "start-06": "node ./src/day_06.js",
     "start-07": "node ./src/day_07.js"
   },
-  "keywords": ["api", "database"],
+  "keywords": [
+    "api",
+    "database"
+  ],
   "author": "Alex Solis",
   "license": "ISC",
   "type": "module"
