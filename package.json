@@ -1,0 +1,24 @@
+{
+  "name": "advent-of-code-2020",
+  "version": "1.0.0",
+  "description": "Advent of Code Puzzles",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js",
+    "start-wk-1": "npm run start-01 && npm run start-02 && npm run start-03 && npm run start-04 && npm run start-05 && npm run start-06 && npm run start-07",
+    "start-01": "node ./src/day_01.js",
+    "start-02": "node ./src/day_02.js",
+    "start-03": "node ./src/day_03.js",
+    "start-04": "node ./src/day_04.js",
+    "start-05": "node ./src/day_05.js",
+    "start-06": "node ./src/day_06.js",
+    "start-07": "node ./src/day_07.js"
+  },
+  "keywords": ["api", "database"],
+  "author": "Alex Solis",
+  "license": "ISC",
+  "type": "module"
+}
