@@ -15,7 +15,8 @@
     "start-04": "node ./src/day_04.js",
     "start-05": "node ./src/day_05.js",
     "start-06": "node ./src/day_06.js",
-    "start-07": "node ./src/day_07.js"
+    "start-07": "node ./src/day_07.js",
+    "start-08": "node ./src/day_08.js"
   },
   "keywords": [
     "api",
