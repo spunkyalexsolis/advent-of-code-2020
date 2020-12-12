@@ -19,7 +19,8 @@
     "start-08": "node ./src/day_08.js",
     "start-09": "node ./src/day_09.js",
     "start-10": "node ./src/day_10.js",
-    "start-11": "node ./src/day_11.js"
+    "start-11": "node ./src/day_11.js",
+    "start-12": "node ./src/day_12.js"
   },
   "keywords": [
     "api",
