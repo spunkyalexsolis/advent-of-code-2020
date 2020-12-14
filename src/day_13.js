@@ -1,8 +1,8 @@
 import { readFile } from 'fs';
 
 // Day 13
-// Part 1:
-// Part 2:
+// Part 1: What is the ID of the earliest bus you can take to the airport multiplied by the number of minutes you'll need to wait for that bus?
+// Part 2: What is the earliest timestamp such that all of the listed bus IDs depart at offsets matching their positions in the list?
 
 readFile('./src/data/day_13_data.txt', 'utf8' , (err, data) => {
   if (err) {

@@ -22,10 +22,10 @@ function readInput(data) {
   return data.split("\r\n");
 }
 
-function solvePuzzle(arr) {
+function solvePuzzle(data) {
   
 }
 
-function solvePuzzle2(arr) {
+function solvePuzzle2(data) {
   
 }

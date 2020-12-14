@@ -8,7 +8,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./src/index.js",
+    "start-advent": "npm run start-wk-1 && npm run start-wk-2",
     "start-wk-1": "npm run start-01 && npm run start-02 && npm run start-03 && npm run start-04 && npm run start-05 && npm run start-06 && npm run start-07",
+    "start-wk-2": "npm run start-08 && npm run start-09 && npm run start-10 && npm run start-11 && npm run start-12 && npm run start-13 && npm run start-14",
     "start-01": "node ./src/day_01.js",
     "start-02": "node ./src/day_02.js",
     "start-03": "node ./src/day_03.js",
@@ -21,7 +23,8 @@
     "start-10": "node ./src/day_10.js",
     "start-11": "node ./src/day_11.js",
     "start-12": "node ./src/day_12.js",
-    "start-13": "node ./src/day_13.js"
+    "start-13": "node ./src/day_13.js",
+    "start-14": "node ./src/day_14.js"
   },
   "keywords": [
     "api",
