@@ -25,7 +25,8 @@
     "start-12": "node ./src/day_12.js",
     "start-13": "node ./src/day_13.js",
     "start-14": "node ./src/day_14.js",
-    "start-15": "node ./src/day_15.js"
+    "start-15": "node ./src/day_15.js",
+    "start-16": "node ./src/day_16.js"
   },
   "keywords": [
     "api",
